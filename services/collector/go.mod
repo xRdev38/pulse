@@ -1,4 +1,4 @@
-module github.com/yourname/pulse/collector
+module github.com/xRdev38/pulse/collector
 
 go 1.22
 
