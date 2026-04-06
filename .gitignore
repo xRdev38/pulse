@@ -1,0 +1,13 @@
+node_modules/
+reports/
+.env
+*.log
+.idea
+# MCP
+/mcp/node_modules
+/mcp/.env
+/mcp/cache
+/mcp/logs
+
+# Config locale sensible
+/mcp/config.local.json
